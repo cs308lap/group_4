@@ -1,5 +1,9 @@
 #include "functions.h"
 #include <stdexcept>
+#include <bits/stdc++.h>
+// hi hello how are u
+// i am not fine
+// bhad mai ja
 
 int factorial(int n){ 
     if(n<0) {
